@@ -1,7 +1,7 @@
 
 import Linha from "./Linha";
 
-export default function Tabuleio(props){
+export default function Tabuleiro(props){
     return (
         <div>
             <Linha />
